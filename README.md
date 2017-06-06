@@ -9,3 +9,14 @@ this licence allows you to make copies for personal use.  Any commercial use mus
 This work is not free
 
 Assistance in designing customised versions, and Production ready drawings are available on request. 
+
+I would like to Acknowledge the support of the following people and organisations so far in this project
+ArduPilot
+Ben Dyer
+Jonathan Challinger
+UAVCAN
+Enroute
+EnrouteLab
+ProfiCNC
+Matternet
+ST Micro
