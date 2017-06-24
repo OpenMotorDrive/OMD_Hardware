@@ -12,13 +12,25 @@ This work is not free
 Assistance in designing customised versions, and Production ready drawings are available on request. 
 
 I would like to Acknowledge the support of the following people and organisations so far in this project
+
 ArduPilot
+
 Ben Dyer
+
 Jonathan Challinger
+
+Philip Rowse
+
 UAVCAN
+
 Enroute
+
 EnrouteLab
+
 ProfiCNC
+
 Matternet
+
 ST Micro
+
 
