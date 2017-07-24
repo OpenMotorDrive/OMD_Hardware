@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:29:30 AM On 29/06/2017
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [OMD_CAN_F7_REF.PrjPCB]
+   Generated File[Bill of Materials-OMD_CAN_F7_REF.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:30:04 AM On 29/06/2017

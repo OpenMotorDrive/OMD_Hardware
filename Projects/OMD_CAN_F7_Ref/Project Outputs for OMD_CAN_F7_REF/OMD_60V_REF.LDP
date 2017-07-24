@@ -1,0 +1,6 @@
+Layer Pairs Export File for PCB: D:\Git\OpenMotorDrive\OMD_Hardware\PCB's\OMD_60V_REF.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=omd_60v_ref.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_L2_Blind_Vias|DrillFile=omd_60v_ref.tx1|DrillLayers=gtl,g1
+LayersSetName=Top_L3_Blind_Vias|DrillFile=omd_60v_ref.tx2|DrillLayers=gtl,g1,g2
+LayersSetName=L2_L3_Buried_Vias|DrillFile=omd_60v_ref.tx3|DrillLayers=g1,g2
+LayersSetName=L3_Bot_Blind_Vias|DrillFile=omd_60v_ref.tx4|DrillLayers=g2,gbl
