@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [OMD_60V_REF.PcbDoc]
+   Generated File[OMD_60V_REF.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:20:23 PM On 26/07/2017

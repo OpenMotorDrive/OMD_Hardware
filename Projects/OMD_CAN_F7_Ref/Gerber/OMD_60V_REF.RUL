@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: E:\Git\OMD\OMD_Hardware\PCB's\OMD_60V_REF.PcbDoc
+RuleKind=Width|RuleName=Width_5V_MCU|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width_GND|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width_BATT|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=shunt|Scope=Board|Allowed=1
+RuleKind=Clearance|RuleName=Clearance_F7|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=3.15
