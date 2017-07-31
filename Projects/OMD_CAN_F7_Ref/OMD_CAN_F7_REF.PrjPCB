@@ -395,170 +395,12 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
-DocumentPath=CAMtastic3.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document23]
-DocumentPath=CAMtastic4.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=..\OMD_CAN_F3_Ref\BOM\Bill of Materials-OMD_CAN_F7_REF.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
 DocumentPath=Project Outputs for OMD_CAN_F7_REF\Design Rule Check - OMD_60V_REF.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.G1
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.G2
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GD2
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GD3
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GD4
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GD5
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GG2
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GG3
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GG4
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GG5
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.REP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.TX2
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.TX3
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.TX4
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -574,7 +416,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Brother HL-3150CDN series
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -710,7 +552,7 @@ OutputDefault26=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother HL-3150CDN series
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -868,7 +710,7 @@ PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Brother HL-3150CDN series
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -890,7 +732,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Brother HL-3150CDN series
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -966,7 +808,7 @@ Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Brother HL-3150CDN series
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1003,7 +845,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Brother HL-3150CDN series
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1183,7 +1025,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Brother HL-3150CDN series
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -1222,7 +1064,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Brother HL-3150CDN series
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1273,7 +1115,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Brother HL-3150CDN series
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
