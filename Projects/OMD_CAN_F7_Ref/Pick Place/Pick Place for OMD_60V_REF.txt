@@ -4,23 +4,21 @@ E:\Git\OMD\OMD_Hardware\Projects\OMD_CAN_F7_Ref\.\Pick Place\Pick Place for OMD_
 ========================================================================================================================
 File Design Information:
 
-Date:       01/08/17
-Time:       01:32
+Date:       22/08/17
+Time:       17:35
 Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mil
 
 Designator Comment                               Layer       Footprint          Center-X(mil) Center-Y(mil) Rotation         Description                                                           
+R24        10K                                   TopLayer    0402-RES           4130.111      3385.111      45               "RES 10K OHM 1/16W 1% 0402 SMD"                                       
 QAS2       MOSFET-N                              BottomLayer Q5B                4115.209      3150.564      225              "N-Channel MOSFET"                                                    
-R21        120R                                  TopLayer    0402-RES           4060.120      3330.101      40               "RES 120 OHM 1/16W 1% 0402 SMD"                                       
-R15        1R2                                   TopLayer    RESC6433X11N       4250.000      3025.000      225              "ES SMD 1.2 OHM 5% 3W 2512  "                                         
+R21        120R                                  TopLayer    0402-RES           4065.111      3330.111      45               "RES 120 OHM 1/16W 1% 0402 SMD"                                       
+R15        PWR163                                TopLayer    PWR163             3829.711      3666.711      135              "The PWR163 Series is a DPAK style surface mount power resistor. "    
 QAS1       MOSFET-N                              TopLayer    Q5B                4120.000      3155.000      225              "N-Channel MOSFET"                                                    
 U3i_CAN3   TJA1052i                              BottomLayer TJA1052i           3830.000      3785.000      90               ""                                                                    
 U3i_CAN2   TJA1052i                              BottomLayer TJA1052i           4760.000      3275.000      35               ""                                                                    
 U3i_CAN1   TJA1052i                              BottomLayer TJA1052i           4355.000      3655.000      60               ""                                                                    
-R14_CAN3   "RES SMD 120 OHM 5% 1/16W 0402"       BottomLayer R0402              4109.670      3932.491      65               "RES SMD 120 OHM 5% 1/16W 0402"                                       
-R14_CAN2   "RES SMD 120 OHM 5% 1/16W 0402"       BottomLayer R0402              4765.111      3599.889      315              "RES SMD 120 OHM 5% 1/16W 0402"                                       
-R14_CAN1   "RES SMD 120 OHM 5% 1/16W 0402"       BottomLayer R0402              4654.880      3620.101      140              "RES SMD 120 OHM 5% 1/16W 0402"                                       
 AUX        DF40C-30-DS                           TopLayer    DF-40C-30DS        2638.457      2959.366      270              "CONN RCPT 30POS 0.4MM SMD GOLD"                                      
 U7         LTC4316                               TopLayer    LTC4316            2915.472      2854.685      0                ""                                                                    
 R13        2K                                    TopLayer    0402-RES           3035.157      2895.000      0                "RES 2K OHM 1/16W 1% 0402 SMD"                                        
@@ -37,7 +35,7 @@ C49        22uF                                  TopLayer    0201-cap           
 U2         STM32F769AI                           TopLayer    WLCSP180           3491.201      3502.233      315              STM32F7                                                               
 C48        0u1                                   BottomLayer 0402-CAP           2805.000      2345.000      180              "CAP CER 0.1UF 16V Y5V 0402"                                          
 L2         732-3880-2-ND                         TopLayer    WE_IND             2815.000      2510.000      180              "Description FIXED IND 18UH 7.5A 22 MOHM SMD"                         
-C47        PartNumber                            BottomLayer 0603-CAP           2670.001      2610.000      270              "CAP, CERM, 1 µF, 6.3 V, +/- 10%, X7R, 0603"                          
+C47        PartNumber                            BottomLayer 0603-CAP           2620.001      2610.000      270              "CAP, CERM, 1 µF, 6.3 V, +/- 10%, X7R, 0603"                          
 C46        Cap                                   BottomLayer CAPC5750L          2855.000      2200.000      360              Capacitor                                                             
 C2         0u1                                   BottomLayer 0402-CAP           2950.000      2460.000      90               "CAP CER 0.1UF 16V Y5V 0402"                                          
 5V_BUCK    LTC7103                               BottomLayer LTC7103            2815.512      2514.842      0                ""                                                                    
@@ -87,8 +85,8 @@ C37        0u1                                   BottomLayer 0201-cap           
 C38        0u1                                   BottomLayer 0201-cap           3476.024      3330.000      180              "CAP CER 0.1UF 6V Y5V 0201"                                           
 C39        8p                                    TopLayer    0201-cap           3648.482      3378.700      135              "CAP CER 8PF 50V NP0 0201"                                            
 C40        8p                                    TopLayer    0201-cap           3534.206      3319.424      135              "CAP CER 8PF 50V NP0 0201"                                            
-C41        GRM21BR60G107ME15L                    TopLayer    C0805              3923.482      3433.700      45               ""                                                                    
-C42        GRM21BR60G107ME15L                    TopLayer    C0805              3863.482      3488.700      45               ""                                                                    
+C41        GRM21BR60G107ME15L                    TopLayer    C0805              4070.000      3415.000      45               ""                                                                    
+C42        GRM21BR60G107ME15L                    TopLayer    C0805              3960.000      3530.000      45               ""                                                                    
 C43        2u2                                   TopLayer    0201-cap           3348.482      3408.700      135              "CAP CER 2u2uF 6V Y5V 0201"                                           
 C44        2u2                                   TopLayer    0201-cap           3458.482      3653.700      45               "CAP CER 2u2uF 6V Y5V 0201"                                           
 C45_A      0u1                                   TopLayer    0201-cap           3475.000      3320.000      45               "CAP CER 0.1UF 6V Y5V 0201"                                           
@@ -96,7 +94,7 @@ C45_B      0u1                                   TopLayer    0201-cap           
 C45_C      0u1                                   TopLayer    0201-cap           3477.001      3292.219      225              "CAP CER 0.1UF 6V Y5V 0201"                                           
 C          Motor_pad                             TopLayer    MOTOR_PLUG_F_3.5   4455.000      2980.000      315              Socket                                                                
 D1         PartNumber                            TopLayer    SOD-123FL          3058.482      3318.700      135              "Diode, Schottky, 100 V, 1 A, SOD-123FL"                              
-D2         "Schottky barrier diode"              TopLayer    SOD323             3743.204      3468.422      225              "DIODE SCHOTTKY 30V 0.03A SOD323"                                     
+D2         "Schottky barrier diode"              TopLayer    SOD323             3715.000      3485.136      270              "DIODE SCHOTTKY 30V 0.03A SOD323"                                     
 Filter     Filter                                BottomLayer NFM18CC            3452.227      3396.445      315              "EMIFIL (Capacitor type) Single Circuit Type for Signal Lines"        
 L1         PartNumber                            TopLayer    SD53               2938.482      3188.700      45               "Inductor, Shielded Drum Core, Ferrite, 15 µH, 1.1 A, 0.122 ohm, SMD" 
 P106       JST_SUR_6                             TopLayer    JST_SUR_H6         3292.890      3702.111      225              "Connector, Header, 6Pos, .8mm IDC, R/A, SMD, Tin"                    
@@ -106,9 +104,6 @@ Q5_C       MOSFET-N                              BottomLayer Q5B                
 Q6_A       MOSFET-N                              TopLayer    Q5B                3650.000      1770.000      102.5            "N-Channel MOSFET"                                                    
 Q6_C       MOSFET-N                              TopLayer    Q5B                4737.020      2943.740      169.898          "N-Channel MOSFET"                                                    
 Q6_B       MOSFET-N                              TopLayer    Q5B                4559.592      2112.510      147.5            "N-Channel MOSFET"                                                    
-R1_CAN1    "RES SMD 120 OHM 5% 1/16W 0402"       BottomLayer R0402              4685.120      3659.899      320              "RES SMD 120 OHM 5% 1/16W 0402"                                       
-R1_CAN2    "RES SMD 120 OHM 5% 1/16W 0402"       BottomLayer R0402              4729.889      3570.111      135              "RES SMD 120 OHM 5% 1/16W 0402"                                       
-R1_CAN3    "RES SMD 120 OHM 5% 1/16W 0402"       BottomLayer R0402              4154.934      3914.856      245              "RES SMD 120 OHM 5% 1/16W 0402"                                       
 R2         "RES SMD 10K OHM 5% 1/16W 0402"       TopLayer    0402-RES           3598.371      3203.811      135              "RES SMD 10K OHM 5% 1/16W 0402"                                       
 R3_A       "Current sense resistor"              TopLayer    4RESC5125X09N      3940.000      1680.000      52.5             "2W, 0.001R 5025 current sense resistor"                              
 R3_C       "Current sense resistor"              TopLayer    4RESC5125X09N      4770.000      2455.000      205              "2W, 0.001R 5025 current sense resistor"                              
@@ -125,7 +120,7 @@ R10_B      RES                                   TopLayer    R0805              
 R16        RES                                   TopLayer    R0805              3205.000      3380.000      225.219421386719 "RES SMD 18K OHM 1% 1/8W 0805"                                        
 R18        RES                                   TopLayer    R0805              3285.000      3455.000      45.2960357666016 "RES SMD 1K OHM 1% 1/8W 0805"                                         
 R19        10K                                   TopLayer    0402-RES           3607.392      3582.253      315              "RES 10K OHM 1/16W 1% 0402 SMD"                                       
-R20        1K                                    TopLayer    0402-RES           3823.371      3553.589      225              "RES 1K OHM 1/16W 1% 0402"                                            
+R20        1K                                    TopLayer    0402-RES           4024.889      3469.889      225              "RES 1K OHM 1/16W 1% 0402"                                            
 U1         DRV8323R                              TopLayer    PQFP-G48           3347.637      3100.212      45               ""                                                                    
 U4         MA700                                 BottomLayer QFN16              3815.000      2635.000      180              MA700                                                                 
 U5         ICM20649                              TopLayer    ICM20649           3765.000      2915.000      360              ""                                                                    
@@ -136,3 +131,6 @@ Q1_C       MOSFET-N                              BottomLayer Q5B                
 Q2_A       MOSFET-N                              TopLayer    Q5B                3420.000      1765.000      102.601898193359 "N-Channel MOSFET"                                                    
 Q2_C       MOSFET-N                              TopLayer    Q5B                4720.000      2720.000      169.83           "N-Channel MOSFET"                                                    
 Q2_B       MOSFET-N                              TopLayer    Q5B                4378.479      1916.547      127.5            "N-Channel MOSFET"                                                    
+C53        PartNumber                            BottomLayer 0603-CAP           2860.000      2704.999      180              "CAP, CERM, 1 µF, 6.3 V, +/- 10%, X7R, 0603"                          
+R22        0R                                    BottomLayer 0201-RES           2675.000      2579.999      360              "RES 0OHM 1/16W 1% 0201 SMD"                                          
+R23        0R                                    BottomLayer 0201-RES           2735.188      2676.998      360              "RES 0OHM 1/16W 1% 0201 SMD"                                          

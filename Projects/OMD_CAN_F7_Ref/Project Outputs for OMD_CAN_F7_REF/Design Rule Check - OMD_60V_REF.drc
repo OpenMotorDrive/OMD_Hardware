@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\Git\OMD\OMD_Hardware\PCB's\OMD_60V_REF.PcbDoc
-Date     : 1/08/2017
-Time     : 12:50:32 AM
+Date     : 23/08/2017
+Time     : 10:34:50 AM
 
 Processing Rule : Clearance Constraint (Gap=0.08mm) (InNamedPolygon('VDD_3V3_L01_P002')or InNamedPolygon('GND_L01_P000')),(All)
 Rule Violations :0
@@ -24,7 +24,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.1mm) (Max=0.254mm) (Preferred=0.127mm) (All)
+Processing Rule : Width Constraint (Min=0.1mm) (Max=3mm) (Preferred=0.127mm) (All)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.1mm) (Max=8mm) (Preferred=0.254mm) (InNet('NetQ2_B_S'))
@@ -84,4 +84,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:11
+Time Elapsed        : 00:00:10
