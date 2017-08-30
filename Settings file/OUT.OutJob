@@ -21,7 +21,7 @@ TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Brother HL-3150CDN series
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -262,7 +262,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=D:\Git\OpenMotorDrive\OMD_Hardware\Projects\OMD_CAN_F7_Ref\.\
+OutputFilePath3=E:\Git\OMD\OMD_Hardware\Projects\OMD_CAN_F7_Ref\.\
 ReleaseManaged3=0
 OutputBasePath3=.\
 OutputPathMedia3=
@@ -316,7 +316,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=F:\Current_Work\00_0_git\px4_hardware\future_designs\Released_DO NOT CHANGE\PCA_0011_Mini_Breakout_REV_A\.\
 OpenOutputs2=1
-RelativeOutputPath3=D:\Git\OpenMotorDrive\OMD_Hardware\Projects\OMD_CAN_F7_Ref\.\
+RelativeOutputPath3=E:\Git\OMD\OMD_Hardware\Projects\OMD_CAN_F7_Ref\.\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0

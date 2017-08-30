@@ -209,7 +209,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=..\..\PCB's\OMD_CAN_VERT.SchDoc
+DocumentPath=..\..\Schematics\OMD_CAN_VERT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
