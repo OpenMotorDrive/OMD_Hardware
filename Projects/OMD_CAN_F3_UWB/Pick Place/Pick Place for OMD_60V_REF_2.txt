@@ -1,0 +1,138 @@
+Altium Designer Pick and Place Locations
+E:\git\OMD_Hardware\Projects\OMD_CAN_F3_UWB\.\Pick Place\Pick Place for OMD_60V_REF_2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       31/08/17
+Time:       22:20
+Revision:   0
+Variant:    No variations
+Units used: mil
+
+Designator Comment                             Layer       Footprint          Center-X(mil) Center-Y(mil) Rotation         Description                                                         
+R24        10K                                 TopLayer    0402-RES           4130.111      3385.111      45               RES 10K OHM 1/16W 1% 0402 SMD                                       
+QAS2       MOSFET-N                            BottomLayer Q5B                4115.209      3150.564      225              N-Channel MOSFET                                                    
+R21        120R                                TopLayer    0402-RES           4065.111      3330.111      45               RES 120 OHM 1/16W 1% 0402 SMD                                       
+R15        PWR163                              TopLayer    PWR163             3829.711      3666.711      135              The PWR163 Series is a DPAK style surface mount power resistor.     
+QAS1       MOSFET-N                            TopLayer    Q5B                4120.000      3155.000      225              N-Channel MOSFET                                                    
+U1_CAN3    TJA1052i                            BottomLayer TJA1052i           3830.000      3785.000      90                                                                                   
+U1_CAN2    TJA1052i                            BottomLayer TJA1052i           4760.000      3275.000      35                                                                                   
+U1_CAN1    TJA1052i                            BottomLayer TJA1052i           4355.000      3655.000      60                                                                                   
+AUX        DF40C-30-DS                         TopLayer    DF-40C-30DS        2638.457      2959.366      270              CONN RCPT 30POS 0.4MM SMD GOLD                                      
+U7         LTC4316                             TopLayer    LTC4316            2915.472      2854.685      0                                                                                    
+R13        2K                                  TopLayer    0402-RES           3035.157      2895.000      0                RES 2K OHM 1/16W 1% 0402 SMD                                        
+R12        2K                                  TopLayer    0402-RES           3035.157      2835.000      0                RES 2K OHM 1/16W 1% 0402 SMD                                        
+R11        2K                                  BottomLayer 0402-RES           2754.843      2965.000      180              RES 2K OHM 1/16W 1% 0402 SMD                                        
+R5         2K                                  BottomLayer 0402-RES           2754.842      3010.000      180              RES 2K OHM 1/16W 1% 0402 SMD                                        
+R4         2K                                  TopLayer    0402-RES           2817.001      2814.528      270              RES 2K OHM 1/16W 1% 0402 SMD                                        
+U2         NCV8154                             TopLayer    NCV8154            3640.000      2715.000      0                IC REG LDO 1.8v and 2.8v                                            
+TOF1       VL53L0X                             TopLayer    VL53L0X            3800.000      2640.000      90                                                                                   
+C4         0u1                                 TopLayer    0201-cap           3880.000      2690.000      270              CAP CER 0.1UF 16V Y5V 0402                                          
+C3         1u                                  TopLayer    0201-cap           3840.000      2535.000      180              CAP CER 1UF 6.3V X5R 0201                                           
+C2         4u7                                 TopLayer    0201-cap           3785.000      2750.000      0                CAP CER 4.7UF 6.3V X5R 0201                                         
+C1         22uF                                TopLayer    0201-cap           3720.000      2705.000      270              CAP CER 22UF 6.3V X5R 0402                                          
+U22        STM32F769AI                         TopLayer    WLCSP180           3491.201      3502.233      315              STM32F7                                                             
+C48        0u1                                 BottomLayer 0402-CAP           2805.000      2345.000      180              CAP CER 0.1UF 16V Y5V 0402                                          
+L2         732-3880-2-ND                       TopLayer    WE_IND             2815.000      2510.000      180              Description FIXED IND 18UH 7.5A 22 MOHM SMD                         
+C47        PartNumber                          BottomLayer 0603-CAP           2620.001      2610.000      270              CAP, CERM, 1 µF, 6.3 V, +/- 10%, X7R, 0603                          
+C46        Cap                                 BottomLayer CAPC5750L          2855.000      2200.000      360              Capacitor                                                           
+C50        0u1                                 BottomLayer 0402-CAP           2950.000      2460.000      90               CAP CER 0.1UF 16V Y5V 0402                                          
+5V_BUCK    LTC7103                             BottomLayer LTC7103            2815.512      2514.842      0                                                                                    
+C51        100u                                BottomLayer 1206-CAP           2649.677      3115.323      134.998                                                                              
+CAN1_CAN1  JST_GH_V4                           TopLayer    JST_GH_V4          4485.588      3705.797      135              BM04B-GHS-TBT                                                       
+CAN1_CAN2  JST_GH_V4                           TopLayer    JST_GH_V4          4725.588      3465.796      135              BM04B-GHS-TBT                                                       
+CAN1_CAN3  JST_GH_V4                           TopLayer    JST_GH_V4          4110.589      3825.798      135              BM04B-GHS-TBT                                                       
++          BATT                                TopLayer    MOTOR_PLUG_F_3.5   3075.000      1960.000      225              Socket                                                              
+A          Motor_pad                           TopLayer    MOTOR_PLUG_F_3.5   3410.000      2075.000      135              Socket                                                              
+B          Motor_pad                           TopLayer    MOTOR_PLUG_F_3.5   4303.633      2162.759      317.5            Socket                                                              
+C1_A       PartNumber                          TopLayer    0603-CAP           3278.482      2853.700      315              CAP, CERM, 1000pF, 16V, +/-10%, X7R, 0603                           
+C1_B       PartNumber                          TopLayer    0603-CAP           3423.482      2853.700      225              CAP, CERM, 1000pF, 16V, +/-10%, X7R, 0603                           
+C1_C       PartNumber                          TopLayer    0603-CAP           3573.483      3003.700      45               CAP, CERM, 1000pF, 16V, +/-10%, X7R, 0603                           
+C49        PartNumber                          TopLayer    0603-CAP           3168.483      3243.700      45               CAP, CERM, 0.1 µF, 16 V, +/- 5%, X7R, 0603                          
+C5         PartNumber                          TopLayer    1206_180L          2833.482      3028.700      315              CAP, CERM, 22 µF, 10 V, +/- 20%, X7S, 1206                          
+C6         PartNumber                          BottomLayer 1210L              3010.000      3190.000      45               CAP, CERM, 2.2 µF, 100 V, +/- 10%, X7R, 1210                        
+C7         0u1                                 TopLayer    0402-CAP           3113.482      3183.700      45               CAP CER 0.1UF 16V Y5V 0402                                          
+C8         PartNumber                          TopLayer    0603-CAP           3308.483      3368.700      135              CAP, CERM, 1 µF, 6.3 V, +/- 10%, X7R, 0603                          
+C9         PartNumber                          TopLayer    0603-CAP           3113.482      2983.700      225              CAP, CERM, 0.047 µF, 100 V, +/- 10%, X7S, 0603                      
+C10        1u                                  TopLayer    0805-CAP           3163.482      2928.700      225              CAP CER 1UF 16V Y5V 0603                                            
+C11        PartNumber                          TopLayer    0603-CAP           2988.483      2983.700      135              CAP, CERM, 1 µF, 6.3 V, +/- 10%, X7R, 0603                          
+C12        PartNumber                          BottomLayer 1210_270L          2915.000      3285.000      45               CAP, CERM, 4.7 µF, 80 V, +/- 10%, X7R, 1210                         
+C13        0u1                                 TopLayer    0402-CAP           3073.482      3133.700      225              CAP CER 0.1UF 16V Y5V 0402                                          
+C14        CAP CER 10000PF 50V X7R 0402        BottomLayer CAPC1005L          3505.000      3630.000      225              CAP CER 10000PF 50V X7R 0402                                        
+C15        2u2                                 TopLayer    0603-CAP           3880.000      2910.000      90               CAP CER 2.2UF 16V 10% X6S 0603                                      
+C17        2u2                                 TopLayer    0603-CAP           3825.000      2808.786      360              CAP CER 2.2UF 16V 10% X6S 0603                                      
+C18        0u1                                 TopLayer    0402-CAP           3715.000      2825.000      180              CAP CER 0.1UF 16V Y5V 0402                                          
+C19        0u1                                 BottomLayer 0201-cap           3537.795      3572.795      225              CAP CER 0.1UF 6V Y5V 0201                                           
+C20        Cap                                 BottomLayer CAPC5750L          3475.001      1410.000      76.0255661010742 Capacitor                                                           
+C21        Cap                                 BottomLayer CAPC5750L          4155.000      1410.000      105.449890136719 Capacitor                                                           
+C22        Cap                                 BottomLayer CAPC5750L          5090.000      2645.000      180.435910743209 Capacitor                                                           
+C23        Cap                                 BottomLayer CAPC5750L          5050.000      2320.000      165.308586120605 Capacitor                                                           
+C24        Cap                                 BottomLayer CAPC5750L          4925.000      2010.000      150.298231124878 Capacitor                                                           
+C25        Cap                                 BottomLayer CAPC5750L          5045.000      2975.000      194.337748527527 Capacitor                                                           
+C26        0u1                                 BottomLayer 0201-cap           3572.205      3557.205      45               CAP CER 0.1UF 6V Y5V 0201                                           
+C27        0u1                                 BottomLayer 0201-cap           3570.000      3445.000      225              CAP CER 0.1UF 6V Y5V 0201                                           
+C28        0u1                                 BottomLayer 0201-cap           3663.482      3463.700      135              CAP CER 0.1UF 6V Y5V 0201                                           
+C29        Cap                                 BottomLayer CAPC5750L          4460.000      1540.000      119.53560256958  Capacitor                                                           
+C30        Cap                                 BottomLayer CAPC5750L          3820.000      1365.000      90.2236480712891 Capacitor                                                           
+C31        Cap                                 BottomLayer CAPC5750L          4720.000      1740.000      135.308658599854 Capacitor                                                           
+C32        0u1                                 BottomLayer 0201-cap           3387.795      3527.795      225              CAP CER 0.1UF 6V Y5V 0201                                           
+C33        0u1                                 BottomLayer 0201-cap           3390.000      3475.000      45               CAP CER 0.1UF 6V Y5V 0201                                           
+C34        0u1                                 BottomLayer 0201-cap           3492.205      3467.205      45               CAP CER 0.1UF 6V Y5V 0201                                           
+C35        0u1                                 BottomLayer 0201-cap           3612.205      3522.205      45               CAP CER 0.1UF 6V Y5V 0201                                           
+C36        0u1                                 BottomLayer 0201-cap           3442.795      3582.205      135              CAP CER 0.1UF 6V Y5V 0201                                           
+C37        0u1                                 BottomLayer 0201-cap           3549.106      3522.277      135              CAP CER 0.1UF 6V Y5V 0201                                           
+C38        0u1                                 BottomLayer 0201-cap           3476.024      3330.000      180              CAP CER 0.1UF 6V Y5V 0201                                           
+C39        8p                                  TopLayer    0201-cap           3648.482      3378.700      135              CAP CER 8PF 50V NP0 0201                                            
+C40        8p                                  TopLayer    0201-cap           3534.206      3319.424      135              CAP CER 8PF 50V NP0 0201                                            
+C41        GRM21BR60G107ME15L                  TopLayer    C0805              4070.000      3415.000      45                                                                                   
+C42        GRM21BR60G107ME15L                  TopLayer    C0805              3960.000      3530.000      45                                                                                   
+C43        2u2                                 TopLayer    0201-cap           3348.482      3408.700      135              CAP CER 2u2uF 6V Y5V 0201                                           
+C44        2u2                                 TopLayer    0201-cap           3458.482      3653.700      45               CAP CER 2u2uF 6V Y5V 0201                                           
+C45_A      0u1                                 TopLayer    0201-cap           3475.000      3320.000      45               CAP CER 0.1UF 6V Y5V 0201                                           
+C45_B      0u1                                 TopLayer    0201-cap           3513.482      3268.700      45               CAP CER 0.1UF 6V Y5V 0201                                           
+C45_C      0u1                                 TopLayer    0201-cap           3477.001      3292.219      225              CAP CER 0.1UF 6V Y5V 0201                                           
+C          Motor_pad                           TopLayer    MOTOR_PLUG_F_3.5   4455.000      2980.000      315              Socket                                                              
+D1         PartNumber                          TopLayer    SOD-123FL          3058.482      3318.700      135              Diode, Schottky, 100 V, 1 A, SOD-123FL                              
+D2         Schottky barrier diode              TopLayer    SOD323             3715.000      3485.136      270              DIODE SCHOTTKY 30V 0.03A SOD323                                     
+Filter     Filter                              BottomLayer NFM18CC            3452.227      3396.445      315              EMIFIL (Capacitor type) Single Circuit Type for Signal Lines        
+L1         PartNumber                          TopLayer    SD53               2938.482      3188.700      45               Inductor, Shielded Drum Core, Ferrite, 15 µH, 1.1 A, 0.122 ohm, SMD 
+P106       JST_SUR_6                           TopLayer    JST_SUR_H6         3292.890      3702.111      225              Connector, Header, 6Pos, .8mm IDC, R/A, SMD, Tin                    
+Q5_A       MOSFET-N                            BottomLayer Q5B                3422.469      1734.811      242.5            N-Channel MOSFET                                                    
+Q5_B       MOSFET-N                            BottomLayer Q5B                4375.726      1918.104      307.102722167969 N-Channel MOSFET                                                    
+Q5_C       MOSFET-N                            BottomLayer Q5B                4800.000      2915.000      15.0932140350342 N-Channel MOSFET                                                    
+Q6_A       MOSFET-N                            TopLayer    Q5B                3650.000      1770.000      102.5            N-Channel MOSFET                                                    
+Q6_C       MOSFET-N                            TopLayer    Q5B                4737.020      2943.740      169.898          N-Channel MOSFET                                                    
+Q6_B       MOSFET-N                            TopLayer    Q5B                4559.592      2112.510      147.5            N-Channel MOSFET                                                    
+R2         RES SMD 10K OHM 5% 1/16W 0402       TopLayer    0402-RES           3598.371      3203.811      135              RES SMD 10K OHM 5% 1/16W 0402                                       
+R3_A       Current sense resistor              TopLayer    4RESC5125X09N      3940.000      1680.000      52.5             2W, 0.001R 5025 current sense resistor                              
+R3_C       Current sense resistor              TopLayer    4RESC5125X09N      4770.000      2455.000      205              2W, 0.001R 5025 current sense resistor                              
+R3_B       Current sense resistor              TopLayer    4RESC5125X09N      4250.000      1775.000      127.5            2W, 0.001R 5025 current sense resistor                              
+R6         PartNumber                          TopLayer    0603L              3028.482      3058.700      225              RES, 28.0 k, 1%, 0.1 W, 0603                                        
+R7         PartNumber                          TopLayer    0603L              3068.482      3018.700      45               RES, 8.45 k, 1%, 0.1 W, 0603                                        
+R8         RES SMD 10K OHM 5% 1/16W 0402       TopLayer    0402-RES           3628.371      3233.811      135              RES SMD 10K OHM 5% 1/16W 0402                                       
+R9_A       RES                                 TopLayer    R0805              3285.000      2175.000      315              RES SMD 18K OHM 1% 1/8W 0805                                        
+R9_C       RES                                 TopLayer    R0805              4280.000      2865.000      315              RES SMD 18K OHM 1% 1/8W 0805                                        
+R9_B       RES                                 TopLayer    R0805              4167.105      2230.706      220              RES SMD 18K OHM 1% 1/8W 0805                                        
+R10_A      RES                                 TopLayer    R0805              3350.000      2240.000      315              RES SMD 1K OHM 1% 1/8W 0805                                         
+R10_C      RES                                 TopLayer    R0805              4225.000      2810.000      135              RES SMD 1K OHM 1% 1/8W 0805                                         
+R10_B      RES                                 TopLayer    R0805              4230.000      2310.000      135              RES SMD 1K OHM 1% 1/8W 0805                                         
+R16        RES                                 TopLayer    R0805              3205.000      3380.000      225.219421386719 RES SMD 18K OHM 1% 1/8W 0805                                        
+R18        RES                                 TopLayer    R0805              3285.000      3455.000      45.2960357666016 RES SMD 1K OHM 1% 1/8W 0805                                         
+R19        10K                                 TopLayer    0402-RES           3607.392      3582.253      315              RES 10K OHM 1/16W 1% 0402 SMD                                       
+R20        1K                                  TopLayer    0402-RES           4024.889      3469.889      225              RES 1K OHM 1/16W 1% 0402                                            
+U1         DRV8323R                            TopLayer    PQFP-G48           3347.637      3100.212      45                                                                                   
+U4         MA700                               BottomLayer QFN16              3815.000      2635.000      180              MA700                                                               
+U5         ICM20649                            TopLayer    ICM20649           3765.000      2915.000      360                                                                                  
+X1         Crystal Oscillator in SMD 1.6 x 1.2 TopLayer    OSCILLATOR-1.6x1.2 3583.482      3363.700      315              CRYSTAL 24MHZ 8PF SMD                                               
+Q1_A       MOSFET-N                            BottomLayer Q5B                3705.000      1710.000      287.5            N-Channel MOSFET                                                    
+Q1_B       MOSFET-N                            BottomLayer Q5B                4560.000      2120.000      329.603          N-Channel MOSFET                                                    
+Q1_C       MOSFET-N                            BottomLayer Q5B                4770.000      2635.000      319.813735961914 N-Channel MOSFET                                                    
+Q2_A       MOSFET-N                            TopLayer    Q5B                3420.000      1765.000      102.601898193359 N-Channel MOSFET                                                    
+Q2_C       MOSFET-N                            TopLayer    Q5B                4720.000      2720.000      169.83           N-Channel MOSFET                                                    
+Q2_B       MOSFET-N                            TopLayer    Q5B                4378.479      1916.547      127.5            N-Channel MOSFET                                                    
+C53        PartNumber                          BottomLayer 0603-CAP           2860.000      2704.999      180              CAP, CERM, 1 µF, 6.3 V, +/- 10%, X7R, 0603                          
+R22        0R                                  BottomLayer 0201-RES           2675.000      2579.999      360              RES 0OHM 1/16W 1% 0201 SMD                                          
+R23        0R                                  BottomLayer 0201-RES           2735.188      2676.998      360              RES 0OHM 1/16W 1% 0201 SMD                                          
+CAN2_CAN2  JST_GH_V4                           TopLayer    JST_GH_V4          4560.589      3300.798      135              BM04B-GHS-TBT                                                       
+CAN2_CAN3  JST_GH_V4                           TopLayer    JST_GH_V4          4320.589      3540.798      135              BM04B-GHS-TBT                                                       

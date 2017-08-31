@@ -32,7 +32,6 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
-IncludeDesignInRelease=0
 
 [Preferences]
 PrefsVaultGUID=
@@ -223,7 +222,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KDGQAMLE
+DocumentUniqueId=LVMHPUQI
 
 [Document12]
 DocumentPath=..\..\Schematics\OMD_DRIVER_60V.Harness
@@ -328,23 +327,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VTNTXBXG
 
 [Document18]
-DocumentPath=..\..\PCB's\OMD_60V_REF.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UUXLJKYY
-
-[Document19]
 DocumentPath=..\..\Schematics\OMD_TOF.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PADAERKU
 
-[Document20]
+[Document19]
 DocumentPath=..\..\Schematics\OMD_TOF.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -378,8 +360,59 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=..\..\Schematics\OMD_AUX.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document21]
+DocumentPath=..\..\PCB's\OMD_60V_REF_2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XWXPYPYC
+
+[Document22]
+DocumentPath=CAMtastic3.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document23]
+DocumentPath=CAMtastic4.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -400,7 +433,191 @@ DocumentPath=..\OMD_CAN_F3_Ref\BOM\Bill of Materials-OMD_CAN_F7_REF.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=..\OMD_CAN_F3_UWB\.\BOM\Bill of Materials-OMD_CAN_F7_REF.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for OMD_CAN_F7_REF\Design Rule Check - OMD_60V_REF.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\Design Rule Check - OMD_60V_REF_2.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=..\OMD_CAN_F3_UWB\.\NC Drill\OMD_60V_REF_2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=..\OMD_CAN_F3_UWB\.\Gerber\OMD_60V_REF_2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.G1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.G2
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GD2
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GD3
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GD4
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GD5
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GG2
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GG3
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GG4
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GG5
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=..\OMD_CAN_F3_UWB\.\DRC\OMD_60V_REF_2.html
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=..\OMD_CAN_F3_UWB\.\NC Drill\OMD_60V_REF_2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=..\OMD_CAN_F3_UWB\.\Gerber\OMD_60V_REF_2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=..\OMD_CAN_F3_UWB\.\Gerber\OMD_60V_REF_2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=..\OMD_CAN_F3_UWB\.\ExportSTEP\OMD_60V_REF_2.step
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=..\OMD_CAN_F3_UWB\.\NC Drill\OMD_60V_REF_2.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=..\OMD_CAN_F3_UWB\.\NC Drill\OMD_60V_REF_2.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=..\OMD_CAN_F3_UWB\.\NC Drill\OMD_60V_REF_2.TX3
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.TX3
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=..\OMD_CAN_F3_UWB\.\NC Drill\OMD_60V_REF_2.TX4
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.TX4
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=..\OMD_CAN_F3_UWB\.\NC Drill\OMD_60V_REF_2.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for OMD_CAN_F7_REF\OMD_60V_REF_2.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=..\OMD_CAN_F3_UWB\.\Pick Place\Pick Place for OMD_60V_REF_2.txt
 DItemRevisionGUID=
 
 [Configuration1]
@@ -411,7 +628,6 @@ ReleaseItemId=
 Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
-ConfigurationType=Source
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -543,11 +759,6 @@ OutputName25=XSpice Netlist
 OutputDocumentPath25=
 OutputVariantName25=
 OutputDefault25=0
-OutputType26=WBSENetlistGeneration
-OutputName26=WEBENCH Simulation Engine
-OutputDocumentPath26=
-OutputVariantName26=
-OutputDefault26=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -569,11 +780,6 @@ OutputName3=SIMPLIS
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=WBSENetlist
-OutputName4=WEBENCH Simulation Engine
-OutputDocumentPath4=
-OutputVariantName4=
-OutputDefault4=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1449,7 +1655,7 @@ ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=
 ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions5=Kind=Code Memory|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9

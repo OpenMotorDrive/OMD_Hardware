@@ -32,7 +32,6 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
-IncludeDesignInRelease=0
 
 [Preferences]
 PrefsVaultGUID=
@@ -293,104 +292,182 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDGQAMLE
 
+[Document16]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document17]
+DocumentPath=CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=..\OMD_CAN_F7_Ref\.\BOM\Bill of Materials-OMD_CAN_F3_UWB.xlsx
+DocumentPath=BOM\Bill of Materials-OMD_CAN_F3_UWB.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\Design Rule Check - UWB_CAN.html
+DocumentPath=..\OMD_CAN_F7_Ref\BOM\Bill of Materials-OMD_CAN_F3_UWB.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=..\OMD_CAN_F7_Ref\.\Pick Place\Pick Place for UWB_CAN.txt
+DocumentPath=Pick Place\Pick Place for UWB_CAN.txt
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=..\OMD_CAN_F7_Ref\.\NC Drill\UWB_CAN.DRR
+DocumentPath=..\OMD_CAN_F7_Ref\Pick Place\Pick Place for UWB_CAN.txt
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.EXTREP
+DocumentPath=NC Drill\UWB_CAN.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=..\OMD_CAN_F7_Ref\.\Gerber\UWB_CAN.EXTREP
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GBL
+DocumentPath=..\OMD_CAN_F7_Ref\NC Drill\UWB_CAN.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GBO
+DocumentPath=Gerber\UWB_CAN.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GBP
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GBS
+DocumentPath=..\OMD_CAN_F7_Ref\Gerber\UWB_CAN.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GD1
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GG1
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GM1
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GTL
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GTO
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GTP
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GTS
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=..\OMD_CAN_F7_Ref\.\DRC\UWB_CAN.html
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=..\OMD_CAN_F7_Ref\.\NC Drill\UWB_CAN.LDP
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.REP
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=..\OMD_CAN_F7_Ref\.\Gerber\UWB_CAN.REP
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.RUL
+DocumentPath=DRC\UWB_CAN.html
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=..\OMD_CAN_F7_Ref\.\Gerber\UWB_CAN.RUL
+DocumentPath=..\OMD_CAN_F7_Ref\DRC\UWB_CAN.html
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=..\OMD_CAN_F7_Ref\.\ExportSTEP\UWB_CAN.step
+DocumentPath=NC Drill\UWB_CAN.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=..\OMD_CAN_F7_Ref\.\NC Drill\UWB_CAN.TXT
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=..\OMD_CAN_F7_Ref\NC Drill\UWB_CAN.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Gerber\UWB_CAN.REP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=..\OMD_CAN_F7_Ref\Gerber\UWB_CAN.REP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Gerber\UWB_CAN.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=..\OMD_CAN_F7_Ref\Gerber\UWB_CAN.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=ExportSTEP\UWB_CAN.step
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=..\OMD_CAN_F7_Ref\ExportSTEP\UWB_CAN.step
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=NC Drill\UWB_CAN.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -401,12 +478,14 @@ ReleaseItemId=
 Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
-ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -533,16 +612,11 @@ OutputName25=XSpice Netlist
 OutputDocumentPath25=
 OutputVariantName25=
 OutputDefault25=0
-OutputType26=WBSENetlistGeneration
-OutputName26=WEBENCH Simulation Engine
-OutputDocumentPath26=
-OutputVariantName26=
-OutputDefault26=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -559,11 +633,6 @@ OutputName3=SIMPLIS
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=WBSENetlist
-OutputName4=WEBENCH Simulation Engine
-OutputDocumentPath4=
-OutputVariantName4=
-OutputDefault4=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -700,7 +769,7 @@ PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -722,13 +791,15 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
@@ -787,7 +858,7 @@ OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType12=Gerber
 OutputName12=Gerber Files
-OutputDocumentPath12=E:\Git\OMD\OMD_Hardware\PCB's\UWB_CAN.PcbDoc
+OutputDocumentPath12=
 OutputVariantName12=[No Variations]
 OutputDefault12=0
 Configuration12_Name1=OutputConfigurationParameter1
@@ -796,7 +867,7 @@ Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -833,7 +904,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1013,7 +1084,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -1052,7 +1123,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1099,51 +1170,11 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Ansoft Neutral
-OutputName10=Ansoft Neutral (AutoPCB)
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=HyperLynx
-OutputName11=HyperLynx (AutoPCB)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=Orcad SDT Schematic
-OutputName12=Orcad SDT Schematic (AutoSCH)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Orcad v7 Capture Design
-OutputName13=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD ASCII
-OutputName14=P-CAD ASCII (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD V16 Schematic Design
-OutputName15=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Protel PCB 2.8 ASCII
-OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1477,7 +1508,7 @@ ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=
 ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions5=Kind=Code Memory|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9

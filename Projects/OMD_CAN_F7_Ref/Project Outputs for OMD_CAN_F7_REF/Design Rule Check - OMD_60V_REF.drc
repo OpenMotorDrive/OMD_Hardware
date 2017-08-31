@@ -1,15 +1,15 @@
 Protel Design System Design Rule Check
-PCB File : E:\Git\OMD\OMD_Hardware\PCB's\OMD_60V_REF.PcbDoc
-Date     : 23/08/2017
-Time     : 10:34:50 AM
+PCB File : E:\git\OMD_Hardware\PCB's\OMD_60V_REF.PcbDoc
+Date     : 31/08/2017
+Time     : 8:55:10 PM
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.08mm) (InNamedPolygon('VDD_3V3_L01_P002')or InNamedPolygon('GND_L01_P000')),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (InComponent('F7')),(All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -24,25 +24,25 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.1mm) (Max=3mm) (Preferred=0.127mm) (All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=0.1mm) (Max=8mm) (Preferred=0.254mm) (InNet('NetQ2_B_S'))
-Rule Violations :0
-
 Processing Rule : Width Constraint (Min=0.1mm) (Max=8mm) (Preferred=0.254mm) (InNet('GND'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.1mm) (Max=8mm) (Preferred=0.254mm) (InNet('MCU_BATT_IN'))
+Processing Rule : Width Constraint (Min=0.1mm) (Max=3mm) (Preferred=0.127mm) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.1mm) (Max=8mm) (Preferred=0.254mm) (InNet('NetQ2_C_S'))
+Processing Rule : Width Constraint (Min=0.1mm) (Max=8mm) (Preferred=0.254mm) (InNet('5V_MCU'))
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.1mm) (Max=8mm) (Preferred=0.254mm) (InNet('NetQ2_A_S'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.1mm) (Max=8mm) (Preferred=0.254mm) (InNet('5V_MCU'))
+Processing Rule : Width Constraint (Min=0.1mm) (Max=8mm) (Preferred=0.254mm) (InNet('NetQ2_C_S'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=8mm) (Preferred=0.254mm) (InNet('MCU_BATT_IN'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=8mm) (Preferred=0.254mm) (InNet('NetQ2_B_S'))
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
@@ -69,13 +69,13 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=2mm) (Disabled)(All)
 Rule Violations :0
 
-Processing Rule : Room CAN3 (Bounding Region = (97.223mm, 88.9mm, 107.807mm, 97.841mm) (Disabled)(InComponentClass('CAN3'))
+Processing Rule : Room CAN1 (Bounding Region = (105.992mm, 84.266mm, 117.307mm, 94.729mm) (Disabled)(InComponentClass('CAN1'))
 Rule Violations :0
 
 Processing Rule : Room CAN2 (Bounding Region = (113.964mm, 76.431mm, 124.427mm, 87.746mm) (Disabled)(InComponentClass('CAN2'))
 Rule Violations :0
 
-Processing Rule : Room CAN1 (Bounding Region = (105.992mm, 84.266mm, 117.307mm, 94.729mm) (Disabled)(InComponentClass('CAN1'))
+Processing Rule : Room CAN3 (Bounding Region = (97.223mm, 88.9mm, 107.807mm, 97.841mm) (Disabled)(InComponentClass('CAN3'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
@@ -83,5 +83,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Waived Violations : 0
-Time Elapsed        : 00:00:10
+Time Elapsed        : 00:00:14

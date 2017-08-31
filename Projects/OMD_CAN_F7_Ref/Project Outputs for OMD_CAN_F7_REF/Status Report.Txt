@@ -1,0 +1,16 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [OMD_CAN_F7_REF.PrjPCB]
+   Generated File[OMD_60V_REF_2.TXT]
+   Generated File[OMD_60V_REF_2.TX1]
+   Generated File[OMD_60V_REF_2.TX2]
+   Generated File[OMD_60V_REF_2.TX3]
+   Generated File[OMD_60V_REF_2.TX4]
+   Generated File[OMD_60V_REF_2.LDP]
+   Generated File[OMD_60V_REF_2.DRR]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 10:20:09 PM On 31/08/2017

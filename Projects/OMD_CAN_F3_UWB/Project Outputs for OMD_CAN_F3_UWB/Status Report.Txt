@@ -1,23 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [OMD_CAN_F3_UWB.PrjPCB]
-   Generated File[UWB_CAN.GTL]
-   Generated File[UWB_CAN.GBL]
-   Generated File[UWB_CAN.GTO]
-   Generated File[UWB_CAN.GTP]
-   Generated File[UWB_CAN.GTS]
-   Generated File[UWB_CAN.GBS]
-   Generated File[UWB_CAN.GBP]
-   Generated File[UWB_CAN.GBO]
-   Generated File[UWB_CAN.GM1]
-   Generated File[UWB_CAN.GD1]
-   Generated File[UWB_CAN.GG1]
-   Generated File[UWB_CAN.RUL]
-   Generated File[UWB_CAN.EXTREP]
-   Generated File[UWB_CAN.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [OMD_CAN_F3_UWB.PrjPCB]
+   Generated File[UWB_CAN.TXT]
+   Generated File[UWB_CAN.LDP]
+   Generated File[UWB_CAN.DRR]
 
 
-Files Generated   : 14
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 11:02:18 AM On 30/08/2017
+Finished Output Generation At 8:27:18 PM On 31/08/2017
