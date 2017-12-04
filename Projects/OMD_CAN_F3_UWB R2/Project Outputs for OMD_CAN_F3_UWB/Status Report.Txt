@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [OMD_CAN_F3_UWB.PrjPCB]
+   Generated File[UWB_CAN_R2.GTO]
+   Generated File[UWB_CAN_R2.GTP]
+   Generated File[UWB_CAN_R2.GTS]
+   Generated File[UWB_CAN_R2.GTL]
+   Generated File[UWB_CAN_R2.GBL]
+   Generated File[UWB_CAN_R2.GBS]
+   Generated File[UWB_CAN_R2.GBP]
+   Generated File[UWB_CAN_R2.GBO]
+   Generated File[UWB_CAN_R2.GM1]
+   Generated File[UWB_CAN_R2.GD1]
+   Generated File[UWB_CAN_R2.GG1]
+   Generated File[UWB_CAN_R2.RUL]
+   Generated File[UWB_CAN_R2.EXTREP]
+   Generated File[UWB_CAN_R2.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 11:19:41 AM On 4/12/2017
