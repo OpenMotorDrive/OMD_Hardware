@@ -275,112 +275,194 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document15]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document16]
+DocumentPath=CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=.\BOM\Bill of Materials-OMD_CAN_F3_UWB.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=.\Pick Place\Pick Place for UWB_CAN_R2.txt
+DocumentPath=BOM\Bill of Materials-OMD_CAN_F3_UWB.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=C:\Users\PHILIP~1\AppData\Local\Temp\Pro6C89.xls
+DocumentPath=.\Pick Place\Pick Place for UWB_CAN_R2.txt
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=C:\Users\PHILIP~1\AppData\Local\Temp\Pro876F.xls
+DocumentPath=Pick Place\Pick Place for UWB_CAN_R2.txt
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=C:\Users\PHILIP~1\AppData\Local\Temp\ProAF27.xls
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\Pick Place for UWB_CAN_R2.txt
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=.\NC Drill\UWB_CAN_R2.DRR
+DocumentPath=C:\Users\PHILIP~1\AppData\Local\Temp\Pro3A10.xls
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=.\Gerber\UWB_CAN_R2.EXTREP
+DocumentPath=.\NC Drill\UWB_CAN_R2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.EXTREP
+DocumentPath=NC Drill\UWB_CAN_R2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GBL
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GBO
+DocumentPath=.\Gerber\UWB_CAN_R2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GBP
+DocumentPath=Gerber\UWB_CAN_R2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GBS
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GD1
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GG1
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GM1
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GTL
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GTO
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GTP
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GTS
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=.\DRC\UWB_CAN_R2.html
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=.\NC Drill\UWB_CAN_R2.LDP
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=.\Gerber\UWB_CAN_R2.REP
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.REP
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=.\Gerber\UWB_CAN_R2.RUL
+DocumentPath=.\DRC\UWB_CAN_R2.html
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.RUL
+DocumentPath=DRC\UWB_CAN_R2.html
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=.\ExportSTEP\UWB_CAN_R2.step
+DocumentPath=.\NC Drill\UWB_CAN_R2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
+DocumentPath=NC Drill\UWB_CAN_R2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=.\Gerber\UWB_CAN_R2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Gerber\UWB_CAN_R2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=.\Gerber\UWB_CAN_R2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Gerber\UWB_CAN_R2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=.\ExportSTEP\UWB_CAN_R2.step
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=ExportSTEP\UWB_CAN_R2.step
+DItemRevisionGUID=
+
+[GeneratedDocument37]
 DocumentPath=.\NC Drill\UWB_CAN_R2.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=NC Drill\UWB_CAN_R2.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -607,24 +689,28 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Brother HL-3150CDN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Assembly
-OutputName1=Assembly Drawings
+OutputType1=Test Points For Assembly
+OutputName1=Test Point Report
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType2=Pick Place
 OutputName2=Generates pick and place files
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=Test Points For Assembly
-OutputName3=Test Point Report
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
+Configuration2_Name2=OutputConfigurationParameter1
+Configuration2_Item2=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|Filter= |FilterActive=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21|Column#18=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#19=Name:DOC_NUM,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#20=Name:REV,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#21=Name:YEAR,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22|Column#22=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#23=Name:PARTNO,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17
+OutputType3=Assembly
+OutputName3=Assembly Drawings
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -676,6 +762,10 @@ OutputName8=NC Drill Files
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
+Configuration8_Name1=ForceUpdateSettings
+Configuration8_Item1=False
+Configuration8_Name2=OutputConfigurationParameter1
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -1008,36 +1098,6 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Ansoft Neutral
-OutputName10=Ansoft Neutral (AutoPCB)
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=HyperLynx
-OutputName11=HyperLynx (AutoPCB)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=Orcad v7 Capture Design
-OutputName12=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=P-CAD ASCII
-OutputName13=P-CAD ASCII (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD V16 Schematic Design
-OutputName14=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=SiSoft
-OutputName15=SiSoft (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

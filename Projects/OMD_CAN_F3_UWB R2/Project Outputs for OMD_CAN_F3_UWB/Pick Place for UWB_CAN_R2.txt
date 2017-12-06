@@ -1,11 +1,11 @@
 Altium Designer Pick and Place Locations
-E:\Git\OMD\OMD_Hardware\Projects\OMD_CAN_F3_UWB R2\.\Pick Place\Pick Place for UWB_CAN_R2.txt
+E:\Git\OMD\OMD_Hardware\Projects\OMD_CAN_F3_UWB R2\Project Outputs for OMD_CAN_F3_UWB\Pick Place for UWB_CAN_R2.txt
 
 ========================================================================================================================
 File Design Information:
 
 Date:       06/12/17
-Time:       14:40
+Time:       14:42
 Revision:   9c8df7ba7d2c410db7a3fad974ad3025ca0f226f
 Variant:    No variations
 Units used: mil
