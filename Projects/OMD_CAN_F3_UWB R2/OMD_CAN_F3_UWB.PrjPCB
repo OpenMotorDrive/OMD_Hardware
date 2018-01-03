@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for OMD_CAN_F3_UWB
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SGWKBAWO
 
 [Document3]
-DocumentPath=..\..\Schematics\UWB_F3_MCU.SchDoc
+DocumentPath=..\..\Schematics\UWB_F4_MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -309,159 +309,132 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=.\BOM\Bill of Materials-OMD_CAN_F3_UWB.xlsx
+[Document17]
+DocumentPath=..\..\Schematics\UWB_F4_MCU.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument2]
+[GeneratedDocument1]
 DocumentPath=BOM\Bill of Materials-OMD_CAN_F3_UWB.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=.\Pick Place\Pick Place for UWB_CAN_R2.txt
-DItemRevisionGUID=
-
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=Pick Place\Pick Place for UWB_CAN_R2.txt
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\Pick Place for UWB_CAN_R2.txt
 DItemRevisionGUID=
 
-[GeneratedDocument6]
-DocumentPath=C:\Users\PHILIP~1\AppData\Local\Temp\Pro3A10.xls
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=.\NC Drill\UWB_CAN_R2.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument8]
+[GeneratedDocument4]
 DocumentPath=NC Drill\UWB_CAN_R2.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=.\Gerber\UWB_CAN_R2.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
+[GeneratedDocument6]
 DocumentPath=Gerber\UWB_CAN_R2.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=.\DRC\UWB_CAN_R2.html
-DItemRevisionGUID=
-
-[GeneratedDocument25]
+[GeneratedDocument19]
 DocumentPath=DRC\UWB_CAN_R2.html
 DItemRevisionGUID=
 
-[GeneratedDocument26]
-DocumentPath=.\NC Drill\UWB_CAN_R2.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
+[GeneratedDocument20]
 DocumentPath=NC Drill\UWB_CAN_R2.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=.\Gerber\UWB_CAN_R2.REP
-DItemRevisionGUID=
-
-[GeneratedDocument30]
+[GeneratedDocument22]
 DocumentPath=Gerber\UWB_CAN_R2.REP
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.REP
 DItemRevisionGUID=
 
-[GeneratedDocument32]
-DocumentPath=.\Gerber\UWB_CAN_R2.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument33]
+[GeneratedDocument24]
 DocumentPath=Gerber\UWB_CAN_R2.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument35]
-DocumentPath=.\ExportSTEP\UWB_CAN_R2.step
-DItemRevisionGUID=
-
-[GeneratedDocument36]
+[GeneratedDocument26]
 DocumentPath=ExportSTEP\UWB_CAN_R2.step
 DItemRevisionGUID=
 
-[GeneratedDocument37]
-DocumentPath=.\NC Drill\UWB_CAN_R2.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument38]
+[GeneratedDocument27]
 DocumentPath=NC Drill\UWB_CAN_R2.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for OMD_CAN_F3_UWB\UWB_CAN_R2.TXT
 DItemRevisionGUID=
 
@@ -476,7 +449,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for OMD_CAN_F3_UWB
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

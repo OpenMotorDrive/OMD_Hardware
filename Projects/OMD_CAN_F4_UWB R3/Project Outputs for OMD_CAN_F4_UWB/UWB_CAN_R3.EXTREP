@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: UWB_CAN_R3.GBR   3/01/2018  2:40:24 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Component Side                          
+.GBL                Solder Side                             
+.G2                 Signal                                  
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GTP                Top Paste                               
+.GTO                Top Overlay                             
+.G1                 3V3                                     
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Dimension                               
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------
