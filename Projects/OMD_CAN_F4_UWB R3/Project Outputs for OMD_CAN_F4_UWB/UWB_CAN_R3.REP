@@ -2,105 +2,6 @@
 FileName = UWB_CAN_R3.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Paste
-      File : UWB_CAN_R3.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Component Side
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : UWB_CAN_R3.GD1
-
-    Adding Drill Pair : Solder Side-Component Side
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D67
-    D153
-    D154
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : UWB_CAN_R3.GG1
-
-    Adding Drill Pair : Solder Side-Component Side
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D153
-*************************************************************
-
-*************************************************************
-Generating : Solder Side
-      File : UWB_CAN_R3.GBL
-
-    Adding Layer      : Solder Side
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D46
-    D59
-    D60
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-*************************************************************
-
-*************************************************************
 Generating : Bottom Paste
       File : UWB_CAN_R3.GBP
 
@@ -112,106 +13,42 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D33
-    D34
-    D35
-    D86
-    D87
-    D88
-    D89
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-*************************************************************
-
-*************************************************************
-Generating : 3V3
-      File : UWB_CAN_R3.G1
-
-    Adding Layer      : 3V3
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D67
-    D69
-    D70
-    D71
-    D72
-    D73
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : UWB_CAN_R3.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-*************************************************************
-
-*************************************************************
-Generating : Dimension
-      File : UWB_CAN_R3.GM1
-
-    Adding Layer      : Dimension
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : UWB_CAN_R3.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Solder Side
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D34
-    D35
-    D46
-    D50
-    D51
-    D52
-    D53
-    D86
-    D87
-    D88
+    D36
+    D37
+    D38
+    D39
     D89
     D90
     D91
     D92
     D93
-    D94
-    D95
     D96
     D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : Signal
+      File : UWB_CAN_R3.G2
+
+    Adding Layer      : Signal
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D68
+    D70
+    D71
+    D72
+    D73
+    D74
 *************************************************************
 
 *************************************************************
@@ -222,18 +59,14 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D10
+    D11
     D13
     D14
-    D15
-    D19
-    D21
-    D67
-    D100
-    D101
-    D102
-    D103
-    D104
+    D16
+    D17
+    D20
+    D22
+    D68
     D105
     D106
     D107
@@ -282,25 +115,54 @@ Used DCodes :
     D150
     D151
     D152
+    D153
+    D154
+    D155
+    D156
+    D157
 *************************************************************
 
 *************************************************************
-Generating : Signal
-      File : UWB_CAN_R3.G2
+Generating : 3V3
+      File : UWB_CAN_R3.G1
 
-    Adding Layer      : Signal
+    Adding Layer      : 3V3
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D67
+    D16
     D68
     D69
     D70
     D71
     D72
     D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : UWB_CAN_R3.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
 *************************************************************
 
 *************************************************************
@@ -313,11 +175,11 @@ Generating : Component Side
 
 
 Used DCodes :
-    D15
-    D45
-    D46
+    D16
     D47
     D48
+    D49
+    D53
     D54
     D55
     D56
@@ -338,6 +200,53 @@ Used DCodes :
     D71
     D72
     D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Dimension
+      File : UWB_CAN_R3.GM1
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : UWB_CAN_R3.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D37
+    D38
+    D48
+    D49
+    D50
+    D51
+    D52
+    D75
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
 *************************************************************
 
 *************************************************************
@@ -352,18 +261,18 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D28
     D29
     D30
     D31
+    D32
+    D33
     D34
-    D35
     D37
     D38
-    D39
     D40
     D41
     D42
+    D43
     D44
     D45
     D46
@@ -373,6 +282,108 @@ Used DCodes :
     D50
     D51
     D52
-    D53
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : UWB_CAN_R3.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Solder Side
+      File : UWB_CAN_R3.GBL
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D48
+    D49
+    D60
+    D61
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : UWB_CAN_R3.GD1
+
+    Adding Drill Pair : Solder Side-Component Side
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D68
+    D158
+    D159
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : UWB_CAN_R3.GG1
+
+    Adding Drill Pair : Solder Side-Component Side
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D158
 *************************************************************
 

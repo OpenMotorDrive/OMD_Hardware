@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [OMD_CAN_F4_UWB.PrjPCB]
-   Generated File[UWB_CAN_R3.TXT]
-   Generated File[UWB_CAN_R3.LDP]
-   Generated File[UWB_CAN_R3.DRR]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [OMD_CAN_F4_UWB.PrjPCB]
+   Generated File[Pick Place for UWB_CAN_R3.txt]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 9:42:40 AM On 4/01/2018
+Finished Output Generation At 2:48:45 PM On 4/01/2018
